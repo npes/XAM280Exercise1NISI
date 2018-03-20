@@ -18,3 +18,23 @@ D:\source\Xamarin projects\XAM280\Exercise 1\Start\FunFlacts\obj\Debug\FunFlacts
 D:\source\Xamarin projects\XAM280\Exercise 1\Start\FunFlacts\obj\Debug\FunFlacts.dll
 D:\source\Xamarin projects\XAM280\Exercise 1\Start\FunFlacts\obj\Debug\FunFlacts.pdb
 D:\source\Xamarin projects\XAM280\Exercise 1\Start\FunFlacts\obj\Debug\FunFlacts.AllFlags.xaml.g.cs
+D:\source\Xamarin projects\XAM280Exercise1NISI\FunFlacts\bin\Debug\FunFlacts.dll
+D:\source\Xamarin projects\XAM280Exercise1NISI\FunFlacts\bin\Debug\FunFlacts.pdb
+D:\source\Xamarin projects\XAM280Exercise1NISI\FunFlacts\bin\Debug\FlagData.dll
+D:\source\Xamarin projects\XAM280Exercise1NISI\FunFlacts\bin\Debug\Xamarin.Forms.Core.dll
+D:\source\Xamarin projects\XAM280Exercise1NISI\FunFlacts\bin\Debug\Xamarin.Forms.Platform.dll
+D:\source\Xamarin projects\XAM280Exercise1NISI\FunFlacts\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\source\Xamarin projects\XAM280Exercise1NISI\FunFlacts\bin\Debug\FlagData.pdb
+D:\source\Xamarin projects\XAM280Exercise1NISI\FunFlacts\bin\Debug\Xamarin.Forms.Core.pdb
+D:\source\Xamarin projects\XAM280Exercise1NISI\FunFlacts\bin\Debug\Xamarin.Forms.Core.xml
+D:\source\Xamarin projects\XAM280Exercise1NISI\FunFlacts\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\source\Xamarin projects\XAM280Exercise1NISI\FunFlacts\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\source\Xamarin projects\XAM280Exercise1NISI\FunFlacts\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\source\Xamarin projects\XAM280Exercise1NISI\FunFlacts\obj\Debug\FunFlacts.csprojResolveAssemblyReference.cache
+D:\source\Xamarin projects\XAM280Exercise1NISI\FunFlacts\obj\Debug\FunFlacts.csproj.CoreCompileInputs.cache
+D:\source\Xamarin projects\XAM280Exercise1NISI\FunFlacts\obj\Debug\FunFlacts.FlagDetailsPage.xaml.g.cs
+D:\source\Xamarin projects\XAM280Exercise1NISI\FunFlacts\obj\Debug\FunFlacts.App.xaml.g.cs
+D:\source\Xamarin projects\XAM280Exercise1NISI\FunFlacts\obj\Debug\FunFlacts.AllFlags.xaml.g.cs
+D:\source\Xamarin projects\XAM280Exercise1NISI\FunFlacts\obj\Debug\FunFlacts.csproj.CopyComplete
+D:\source\Xamarin projects\XAM280Exercise1NISI\FunFlacts\obj\Debug\FunFlacts.dll
+D:\source\Xamarin projects\XAM280Exercise1NISI\FunFlacts\obj\Debug\FunFlacts.pdb
