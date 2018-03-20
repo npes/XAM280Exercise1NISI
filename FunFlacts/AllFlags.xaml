@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage 
+    Title="Fun With Flags"        
+    xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FlagData.AllFlags">
+    <ContentPage.Content>
+        <ListView x:Name="flags" ItemsSource="{Binding Flags}">
+            
+        </ListView>
+    </ContentPage.Content>
+</ContentPage>

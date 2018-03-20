@@ -1,0 +1,6 @@
+D:\source\Xamarin projects\XAM280\Exercise 1\Start\FlagData\bin\Debug\FlagData.dll
+D:\source\Xamarin projects\XAM280\Exercise 1\Start\FlagData\bin\Debug\FlagData.pdb
+D:\source\Xamarin projects\XAM280\Exercise 1\Start\FlagData\obj\Debug\FlagData.csprojResolveAssemblyReference.cache
+D:\source\Xamarin projects\XAM280\Exercise 1\Start\FlagData\obj\Debug\FlagData.csproj.CoreCompileInputs.cache
+D:\source\Xamarin projects\XAM280\Exercise 1\Start\FlagData\obj\Debug\FlagData.dll
+D:\source\Xamarin projects\XAM280\Exercise 1\Start\FlagData\obj\Debug\FlagData.pdb
